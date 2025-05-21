@@ -1,0 +1,10 @@
+streamlit==1.31.0
+youtube-transcript-api==0.6.1
+pytube==15.0.0
+git+https://github.com/openai/whisper.git
+langchain==0.0.335
+langchain-community==0.0.19
+groq==0.4.1
+faiss-cpu==1.7.4
+sentence-transformers==2.5.0
+pydantic==1.10.13
